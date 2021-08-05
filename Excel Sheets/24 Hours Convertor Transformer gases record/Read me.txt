@@ -1,0 +1,3 @@
+1.Please Note the Daily Maximum Values of TotHyd,H2,CH4,C2H6,C2H4 and CH4 of all the converter Transformer Every Night after 00:00.(Night Duty Person)
+2.After completetion save the file in Previous Record Folder every week.(Night Duty Person)
+3.Copy the weekly values in Completed Record file at every week. (Night Duty Person)
